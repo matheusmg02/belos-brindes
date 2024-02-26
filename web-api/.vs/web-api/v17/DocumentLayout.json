@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\migrations\\20240226022152_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\migrations\\20240226022152_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\migrations\\20240224021106_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\migrations\\20240224021106_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\migrations\\20240224003608_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\migrations\\20240224003608_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|c:\\users\\matheus macedo\\documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\web-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D32DBE0-865E-4047-BD8F-C0D96BD70509}|web-api\\web-api.csproj|solutionrelative:web-api\\web-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240226022152_v3.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\20240226022152_v3.cs",
+              "RelativeDocumentMoniker": "web-api\\Migrations\\20240226022152_v3.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\20240226022152_v3.cs",
+              "RelativeToolTip": "web-api\\Migrations\\20240226022152_v3.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T02:22:05.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240224021106_v2.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\20240224021106_v2.cs",
+              "RelativeDocumentMoniker": "web-api\\Migrations\\20240224021106_v2.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\20240224021106_v2.cs",
+              "RelativeToolTip": "web-api\\Migrations\\20240224021106_v2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:11:13.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Program.cs",
+              "RelativeDocumentMoniker": "web-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Program.cs",
+              "RelativeToolTip": "web-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T20:44:35.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "web-api\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "web-api\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T19:53:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\appsettings.json",
+              "RelativeDocumentMoniker": "web-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\appsettings.json",
+              "RelativeToolTip": "web-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T20:56:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "web-api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Models\\User.cs",
+              "RelativeToolTip": "web-api\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T19:30:26.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "web-api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "web-api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T12:13:06.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240224003608_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\20240224003608_v1.cs",
+              "RelativeDocumentMoniker": "web-api\\Migrations\\20240224003608_v1.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\20240224003608_v1.cs",
+              "RelativeToolTip": "web-api\\Migrations\\20240224003608_v1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T00:36:12.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "web-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "web-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T00:48:34.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "web-api.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\web-api.csproj",
+              "RelativeDocumentMoniker": "web-api\\web-api.csproj",
+              "ToolTip": "C:\\Users\\Matheus Macedo\\Documents\\estudos-dotnet\\belos-brindes\\web-api\\web-api\\web-api.csproj",
+              "RelativeToolTip": "web-api\\web-api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-23T19:36:06.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
